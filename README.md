@@ -18,3 +18,6 @@ Kullanılan Kaynaklar:
  - **seaborn**
  - **datetime**
 
+# Yardımcı Dökümanlar
+
+- ** EVDS Verilerine PYTHON ile Erişim Kılavuzu ** **https://evds2.tcmb.gov.tr/help/videos/EVDS_PYTHON_Kullanim_Kilavuzu.pdf**
