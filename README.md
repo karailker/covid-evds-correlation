@@ -17,6 +17,7 @@ Kullanılan Kaynaklar:
  - **Matplotlib**
  - **seaborn**
  - **datetime**
+ - **scipy**
 
 # Yardımcı Dökümanlar
 
